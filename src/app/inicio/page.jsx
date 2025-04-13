@@ -16,16 +16,15 @@ const Inicio = () => {
             <h1 className="text-colorVerde font-extrabold text-4xl m-auto p-6 ">
               Ezequiel Porchietto
             </h1>
-            <p className="text-white text-lg m-auto p-4">
-              ¡Hola! Soy un estudiante de tercer año de la Tecnicatura Superior
-              en Desarrollo de Software en el Instituto Superior de Profesorado
-              N°20, ubicado en la hermosa ciudad de San Justo, en la provincia
-              de Santa Fe, Argentina.
+            <p className="text-white text-4xl m-auto p-4">
+              ¡Hola! Soy Técnico Superior en Desarrollo de Software, recibido en
+              el Instituto Superior de Profesorado N°20, ubicado en la ciudad de
+              San Justo, provincia de Santa Fe, Argentina.
             </p>
           </div>
         </div>
         <div className="bg-colorOscuro w-[90%] h-auto m-auto mt-5 rounded-3xl ">
-          <p className="text-white text-lg mb-4  m-auto p-6">
+          <p className="text-white text-2xl mb-4  m-auto p-6">
             Desde que inicié mi camino en el mundo del desarrollo de software,
             he cultivado una mentalidad autodidacta que me ha permitido explorar
             y aprender más allá de las aulas. Mi experiencia académica me ha
@@ -42,9 +41,9 @@ const Inicio = () => {
             sino también en evolucionar como individuo, creando un equilibrio
             entre el conocimiento técnico y el desarrollo personal. Estoy
             emocionado por lo que el futuro me depara y ansioso por seguir
-            aprendiendo y creciendo en esta apasionante trayectoria. <br/>¡Bienvenido/a a mi espacio virtual,
-            donde comparto mi viaje y logros mientras sigo construyendo mi
-            camino en este fascinante campo!
+            aprendiendo y creciendo en esta apasionante trayectoria. <br />
+            ¡Bienvenido/a a mi espacio virtual, donde comparto mi viaje y logros
+            mientras sigo construyendo mi camino en este fascinante campo!
           </p>
         </div>
       </div>

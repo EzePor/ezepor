@@ -6,7 +6,7 @@ const Proyectos = () => {
     <div className="flex flex-wrap bg-colorOscuro m-2">
       {proyects.map(({ imagen, nombre, descripcion, visitame }, id) => (
         <div key={id} className="w-full md:w-1/3  p-4">
-          <div className="bg-colorOscuro overflow-hidden rounded-lg transition-transform transform hover:scale-105 ">
+          <div className="bg-colorOscuro overflow-hidden rounded-lg  transition-transform transform hover:scale-105 ">
             <img src={`/${imagen}`} alt="" className="object-cover h-[300px] w-full" />
           </div>
 
